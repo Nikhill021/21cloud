@@ -1,7 +1,7 @@
 
 
 
-n = input(enter to check whether palindrome or not " ")
+n = input()
 n = int(n)
 copy_n=n
 result = 0
